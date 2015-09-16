@@ -3,3 +3,5 @@ The Javascript front-end to the new (new) MPGA, using [AngularJS](http://angular
 To view, run `python -m SimpleHTTPServer` in the root directory.
 
 To build, run `cd build; ant clean build`. The minified version will be in the `publish` directory.
+
+See a demo at [http://mpga-demo.ayecapta.in](http://mpga-demo.ayecapta.in).
